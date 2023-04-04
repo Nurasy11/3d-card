@@ -1,4 +1,6 @@
 import React from 'react';
+//logo
+
 // import components
 import Card from './components/Card';
 
